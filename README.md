@@ -2,8 +2,6 @@
 
 A modern, intuitive RGB color picker built with Jetpack Compose.
 
-![Color Picker App Screenshot](https://example.com/screenshot.png)
-
 ## Features
 
 - Real-time RGB color mixing with interactive sliders
